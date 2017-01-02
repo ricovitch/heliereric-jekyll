@@ -1,8 +1,8 @@
-## Work in Progress
+Bienvenue sur le blog d'Eric Hélier, expert frontend HTML5 (Angular/nodeJS) et AS3 (Flex/AIR).
 
-You can use the [editor on GitHub](https://github.com/ricovitch/ricovitch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Je suis actuellement Lead frontend developer et Scrum master chez [FittingBox](http://heliereric.com/employeurs/fittingbox), startup toulousaine, qui commercialise des solutions crossplateformes d'essayages virtuel de lunettes.
 
-### Markdown
+### Work in progress
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
