@@ -2,7 +2,7 @@ Bienvenue sur le blog d'Eric Hélier, expert frontend HTML5 (Angular/nodeJS) et 
 
 Je suis actuellement Lead frontend developer et Scrum master chez [FittingBox](http://heliereric.com/employeurs/fittingbox), startup toulousaine, qui commercialise des solutions crossplateformes d'essayages virtuel de lunettes.
 
-![http://www.viadeo.com/fr/profile/eric.helier](http://heliereric.com/sites/default/files/social/viadeo.png)
+[![viadeo](http://heliereric.com/sites/default/files/social/viadeo.png)](http://www.viadeo.com/fr/profile/eric.helier)
 
 ### Work in progress
 
