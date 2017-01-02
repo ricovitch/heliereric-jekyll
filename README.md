@@ -1,4 +1,4 @@
-## Senior Frontend Developer Toulouse | Hélier Eric
+## Work in Progress
 
 You can use the [editor on GitHub](https://github.com/ricovitch/ricovitch.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
