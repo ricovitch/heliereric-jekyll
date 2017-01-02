@@ -4,28 +4,4 @@ Je suis actuellement Lead frontend developer et Scrum master chez [FittingBox](h
 
 [![viadeo](http://heliereric.com/sites/default/files/social/viadeo.png)](http://www.viadeo.com/fr/profile/eric.helier)
 [![facebook](http://heliereric.com/sites/default/files/social/facebook.png)](http://www.facebook.com/helier.eric)
-
-
-### Work in progress
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[![google](http://heliereric.com/sites/default/files/social/google.png)](https://plus.google.com/105812857505828782829)
