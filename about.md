@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[eric.helier@free.fr)](mailto:eric.helier@free.fr)
+[eric.helier@free.fr](mailto:eric.helier@free.fr)
