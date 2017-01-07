@@ -1,0 +1,4 @@
+_site*
+*.pem
+*.sh
+Gemfile.lock
